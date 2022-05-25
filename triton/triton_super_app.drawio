@@ -1,11 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T08:14:53.904Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="nWdpwnZOCe4Plib0OPvt" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-25T08:26:40.543Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="L97crWQuBdQmTpHhCsT3" version="17.4.0" type="github">
   <diagram id="-e2xT9rFEE62PfX1VcPg" name="Host">
     <mxGraphModel dx="2066" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ggAd5adWKW25LmRhUnQ8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="ggAd5adWKW25LmRhUnQ8-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ggAd5adWKW25LmRhUnQ8-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;HOST&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;arcSize=13;align=center;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="520" width="620" height="240" as="geometry" />
+          <mxGeometry x="70" y="520" width="730" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="ggAd5adWKW25LmRhUnQ8-5" value="General functions/base layer" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;fontSize=20;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="105" y="710" width="660" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ggAd5adWKW25LmRhUnQ8-6" value="Camera" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;fontSize=20;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="115" y="730" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ggAd5adWKW25LmRhUnQ8-7" value="Seed Storage" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;fontSize=20;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="225" y="730" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ggAd5adWKW25LmRhUnQ8-8" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Wallet Functions*&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;fontSize=20;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="335" y="730" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ggAd5adWKW25LmRhUnQ8-9" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Storage&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;fontSize=20;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="445" y="730" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ggAd5adWKW25LmRhUnQ8-11" value="&lt;font style=&quot;font-size: 14px&quot;&gt;* API for the DeFiChain (e.g. create transactions, get Tokens, get Balance, get Prices, ...)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="110" y="850" width="650" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ggAd5adWKW25LmRhUnQ8-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Encryption&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;fontSize=20;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="555" y="730" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ggAd5adWKW25LmRhUnQ8-13" value="..." style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;fontSize=20;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="665" y="730" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ggAd5adWKW25LmRhUnQ8-14" value="Mini App Bridge/API" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="100" y="540" width="670" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
